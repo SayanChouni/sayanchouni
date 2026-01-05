@@ -24,7 +24,7 @@
 
 ## 👋 Introduction
 
-- 👋 Hi, I’m [Sayan Chouni](https://amitdas.site), the CEO and Founder of [QuickPanel](https://www.quickpanel.in).
+- 👋 Hi, I’m [Sayan Chouni](https://amitdas.site), the CEO and Founder of [ZECURA_EYE](https://www.ZECURA_EYE.in).
 - 🌱 I am a passionate developer with expertise in building apps and enhancing user engagement.
 - 🔍 I love exploring technology and expanding my knowledge in web and app development.
 - 📫 Connect with me on [Telegram](https://t.me/AmitDas4321) to discuss projects, collaborations, or innovative ideas.
@@ -32,8 +32,8 @@
 <br><br>
 
 <kbd style="border: 2px solid #006C9C; padding: 10px; border-radius: 5px;">
-  <a href="https://quickpanel.in" target="_blank">
-    <img alt="Visit QuickPanel" src="https://quickpanel.in/uploads/main/8a3feaaf1fdf0c218db5572eacfeb684.png" style="border: 1px solid #006C9C; border-radius: 5px;">
+  <a href="https://ZECURA_EYE.in" target="_blank">
+    <img alt="Visit ZECURA_EYE" src="https://ZECURA_EYE.in/uploads/main/8a3feaaf1fdf0c218db5572eacfeb684.png" style="border: 1px solid #006C9C; border-radius: 5px;">
   </a>
 </kbd>
 
@@ -48,7 +48,7 @@ In my free time, I enjoy:
 
 ## 🌟 Goals and Aspirations
 
-My goal is to create impactful tools like QuickPanel that redefine how businesses engage with their users.
+My goal is to create impactful tools like ZECURA_EYE that redefine how businesses engage with their users.
 
 Feel free to connect with me for collaborations or to share your ideas!
 
