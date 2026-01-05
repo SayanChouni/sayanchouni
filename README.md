@@ -24,7 +24,7 @@
 
 ## 👋 Introduction
 
-- 👋 Hi, I’m [Amit Das](https://amitdas.site), the CEO and Founder of [QuickPanel](https://www.quickpanel.in).
+- 👋 Hi, I’m [Sayan Chouni](https://amitdas.site), the CEO and Founder of [QuickPanel](https://www.quickpanel.in).
 - 🌱 I am a passionate developer with expertise in building apps and enhancing user engagement.
 - 🔍 I love exploring technology and expanding my knowledge in web and app development.
 - 📫 Connect with me on [Telegram](https://t.me/AmitDas4321) to discuss projects, collaborations, or innovative ideas.
